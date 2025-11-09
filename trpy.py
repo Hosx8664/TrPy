@@ -13,7 +13,7 @@ if os.name == 'nt':  # Windows
 else:  # Linux/MacOS
     sys.stdout.write(f"\x1b]2;Türkçe Python\x07")
 
-___name___ = "NecmeddinHD tarafından Türkçe Python"
+___name___ = "Hosx8664 tarafından Türkçe Python"
 ___version___ = "Sürüm: 1.0.8 Latest Release"
 
 print(___name___)
@@ -231,5 +231,6 @@ if __name__ == "__main__":
             else:
                 print("❌ Dosya bulunamadı:", girilen)
                 print("Kullanım: .trpy dosyasını trpy.exe üzerine sürükleyin.")
+
 
 input("Çıkmak için ENTER tuşuna basınız")
